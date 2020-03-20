@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}.leftside{
+    background-color:  #14151983;
+    /* height: 100vh; */
+    
+
+}
+
+.rightside{
+    background-color:  #12252983;
+    /* height: 100vh; */
+    
+}
+
+.row{
+    margin: 100px;
+}
+
+img{
+    border: solid #141519;
+    border-radius: 80%;
+}
+
+.form-group {
+    background-color: #10f0f083;
+    border-bottom: 3px solid rgb(0, 128, 64);
+}
+
+button{
+    background-color: black;
+    border: 1px solid  #14151983;
+    border-radius: 2px;
+    /* height: 2px; */
+    /* width: 3px; */
+}
+
+.form-control{
+    background-color: black;
+    color: white; 
+}

@@ -1,0 +1,11 @@
+body{
+    margin: 0%;
+}
+
+
+header{
+    display: flex;
+    background-color: blue;
+    padding: 3px;
+}
+

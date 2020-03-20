@@ -1,0 +1,46 @@
+.container{
+    background-color: black;
+    margin: auto;
+    height: 50vh;
+    width: 40vw;
+    margin-top: 15%;
+    position: relative;
+}
+
+.left{
+   position: absolute;
+   background-color: aqua;
+   height: 45vh;
+   width: 15vw;
+   margin-top: 15px;
+   margin-left: 10%;
+   text-align: center;
+ 
+}
+
+.logo{
+    background-color: aqua; 
+
+
+}
+
+input{
+    background-color: blue;
+    position: absolute;
+    height: 35vh;
+    width: 18vw;
+    margin-top: -1%;
+    margin-left: 48%;
+    text-align: center;
+    padding: 1%;
+
+
+}
+
+.form-group{
+    border-radius: none !important;
+    border-bottom: 1px solid #1e505a !important;
+    background-color:  rgba(0, 0, 0, 0.541) !important;
+}
+
+

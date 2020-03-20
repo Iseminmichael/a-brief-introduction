@@ -1,0 +1,73 @@
+body{
+    margin: 0%;
+    background-color: brown;
+}
+
+.parent{
+    margin: 0%;
+    width: 20vw;
+    height: 100vh;
+    text-align: left;
+    position: relative;
+}
+img{
+    height: 100vh;
+    width: 20vw;
+    border-radius: 50%;
+}
+
+.child1{
+    position: absolute;
+    width: 30vw;
+    height: 100vh;
+    top: 0;
+    right: 80vw;
+    bottom: 0;
+    left: 0;
+}
+
+.child2{
+    position: absolute;
+    width: 30vw;
+    height: 100vh;
+    top: 0;
+    right: 0;
+    left: 20vw;
+    bottom: 0;
+    background-color: aqua;
+}
+.child3{
+    position: absolute;
+    width: 30vw;
+    height: 100vh;
+    bottom: 0;
+    right: 80;
+    background-color: blueviolet;
+    left: 40vw;
+}
+
+.child4{
+    position: absolute;
+    width: 20vw;
+    height: 100vh;
+    bottom: 0;
+    right: 160;
+    background-color: darkgrey;
+    left: 60vw;
+    text-align: center;
+}
+
+.child5
+{
+    position: absolute;
+    width: 20vw;
+    height: 100vh;
+    bottom: 0;
+    right: 320;
+    left: 80vw;
+    background-color: black;
+}
+.child3 h2{
+    margin-top: 90vh;
+    font-weight: bold;
+}

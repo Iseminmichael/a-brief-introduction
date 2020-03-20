@@ -1,0 +1,105 @@
+.body{
+    background-color: azure;
+    margin: auto;
+    width: 48vw;
+    height: 50vh;
+    margin-top: 11%;
+    position: relative;
+    border: 1px solid black;
+    border-radius: 10%;
+    box-shadow: 2px 2px 4px 2px rgba(51, 23, 204, 0.849)
+    
+
+
+}  
+.div{
+    background-color: skyblue;
+    margin-top: -24%;
+    margin-bottom: 0%;
+    margin-left: 49%;
+    width: 25vw;
+    height: 51vh;
+    border-top-right-radius: 10%;
+    border-bottom-right-radius: 10%;
+    position: absolute;
+    left: 0%;
+    
+  
+
+}
+h2{
+    margin-left: 5%;
+    
+}
+ul{
+    list-style: none;
+}
+li{
+    border-bottom: 2px solid black;
+    margin-right: 60%;
+    padding: 2%;
+
+}
+
+
+.body input{
+    margin-top: 5%;
+}
+p{
+    background-color: darkgreen;
+    border: 1px solid darkgreen;
+    border-radius: 10px;
+    margin-left: 32%;
+    margin-right: 59%;
+    color: white;
+}
+
+span{
+    color: white;
+    border-bottom: dashed;
+    margin-left: 35%;
+    
+
+
+
+}
+
+.or{
+    text-align: center;
+    color: aliceblue;
+  
+}
+
+b{
+
+    margin-left: 22%;
+    color: aliceblue;
+}
+h4{
+    background-color:royalblue;
+    border-radius: 30%;
+    border: 1px solid blue;
+    width: 10%;
+    color: black;
+    margin: auto;
+    margin-top: 5%;
+    border-radius: 10%;
+    box-shadow: 2px 2px 4px 2px rgba(51, 23, 204, 0.849)
+}
+.facebook{
+    background-color: darkblue;
+    margin-top: 10%;
+    border: 1px solid darkblue;
+    border-radius: 10px;
+    width: 50%;
+    margin-left: 20%;
+}
+
+.google{
+    background-color: red;
+    margin-top: 10%;
+    border: 1px solid red;
+    border-radius: 10px;
+    width: 50%;
+    margin-left: 20%;
+}

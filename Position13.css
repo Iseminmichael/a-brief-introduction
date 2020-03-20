@@ -1,0 +1,44 @@
+.wrap{
+    width: 80%;
+    margin: auto;
+    background-color: black;
+    overflow: hidden;
+
+}
+aside, .service , .menu{
+    height: 600px;
+}
+
+h1{
+    color: blueviolet;
+    text-align: center;
+}
+aside {
+    background-color: yellowgreen;
+    width: 20%;
+    float: left; 
+    padding: 20px;
+    box-sizing: border-box;
+
+}
+
+.service{
+    background-color: blue;
+    width: 60%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+
+}
+.menu{
+    width: 20%;
+    background-color: brown;
+    float: right;
+    padding: 20px;
+    box-sizing: border-box;
+
+}
+ul{
+    list-style: none;
+}

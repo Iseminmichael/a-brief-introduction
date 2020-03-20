@@ -1,0 +1,48 @@
+body{
+    background-color: white;
+}
+
+.leftside{
+    background-color: white;
+}
+
+.rightside{
+    background-color: black;
+}
+
+.row{
+    margin: 100px;
+    border: 1px solid black;
+    
+} 
+
+.contact-group{
+    padding: 10%;
+}
+
+p{
+    padding: 3%;
+}
+
+.btn{
+    border: 1px solid orange;
+    border-radius: 2px;
+    color: orange;
+    box-shadow: 5%;
+
+}
+
+#say-hi{
+    padding-bottom: 30%;
+    background-color: black;
+    color: white;
+
+}
+
+.form-control{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+
+}
+

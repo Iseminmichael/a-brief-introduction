@@ -1,0 +1,21 @@
+.section{
+    margin: 0%;
+
+    background-color: black;
+
+}
+
+
+video{
+    width: 30%;
+    height: 30%;
+    border: 15px solid black;
+    
+}
+
+.container{
+    width: 30%;
+    height: 30%;
+    background-color: black;
+    
+}
